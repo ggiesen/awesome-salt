@@ -1,13 +1,13 @@
 # Awesome SaltStack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
+> A collaborative curated list of awesome Salt (formerly SaltStack) resources, tutorials and other salted stuff.
 
 <!--lint ignore double-link-->
-[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com/)
+[<img src="https://gitlab.com/saltstack/open/salt-branding-guide/-/raw/master/logos/SaltProject_altlogo_teal.png" width="100%">](https://saltproject.io/)
 
-SaltStack is the other configuration management system built with Python.\
+Salt is the other configuration management system built with Python.\
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
-SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
+Salt software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
 
 A :gem: means **really _awesome / useful_**.
 
@@ -32,17 +32,15 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 <!--lint ignore double-link-->
-- [SaltStack site](https://www.saltstack.com/) - Company website.
 - [Salt Project site](https://saltproject.io/) - Salt Project (Salt Open Source) website.
-- [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
+- [VMware Aria Automation Config](https://www.vmware.com/ca/products/aria-automation/saltstack-config.html) - Aria Automation Config website at VMware (new name for commercial SaltStack product).
 - [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
-- [GitLab repo](https://gitlab.com/saltstack/open) - Salt Project's eventual new home.
-- [SaltStack Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
+- [GitLab repo](https://gitlab.com/saltstack/open) - Salt Project's alternate repo for docs and branding.
+- [Salt Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 <!--lint ignore awesome-list-item-->
 - [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
-- [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
-- [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
+- [Jinja2 documentation](https://jinja.palletsprojects.com/en/3.1.x/) - This official documentation covers the used templating language in Salt.
 - [Salt Module Contributions](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
 
 ## Tutorials
@@ -108,6 +106,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltConf18 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-wsL5HZqtTuvV80Y6dqmQE) - Video recordings of SaltConf18 presentations.
 - [SaltConf19 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_8E03aA45ZncgwTrI96ky2m) - Video recordings of SaltConf19 presentations.
 - [SaltConf20 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl__frIm2HOGPm1GrcVQkOZTe) - Video recordings of SaltConf20 presentations.
+- [SaltConf21 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_8j1hNjel7kZL3Ql4LMPOAG) - Video recordings of SaltConf21 presentations
 
 ## Tools
 
