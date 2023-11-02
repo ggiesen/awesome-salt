@@ -1,4 +1,4 @@
-# Awesome SaltStack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Salt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collaborative curated list of awesome Salt (formerly SaltStack) resources, tutorials and other salted stuff.
 
